@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="org.springframework.build.aws:org.springframework.build.aws.maven:2.0.0.RELEASE" type="repository">
+    <properties maven-id="org.springframework.build.aws:org.springframework.build.aws.maven:2.0.0.RELEASE" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/build/aws/org.springframework.build.aws.maven/2.0.0.RELEASE/org.springframework.build.aws.maven-2.0.0.RELEASE.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.2/commons-codec-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jets3t/jets3t/0.6.0/jets3t-0.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

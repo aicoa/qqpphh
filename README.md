@@ -8,7 +8,7 @@
 
 # 效果展示  
 
-![6436ad6dc48925558480e79fc1ba0df](E:/文档/WeChat Files/wxid_2379913808512/FileStorage/Temp/6436ad6dc48925558480e79fc1ba0df.png)![ec378a7b62d5695b0a977f6f420613d](E:/文档/WeChat Files/wxid_2379913808512/FileStorage/Temp/ec378a7b62d5695b0a977f6f420613d.png)
+![6436ad6dc48925558480e79fc1ba0df](README.assets/6436ad6dc48925558480e79fc1ba0df.png)<img src="README.assets/ec378a7b62d5695b0a977f6f420613d.png" alt="ec378a7b62d5695b0a977f6f420613d" style="zoom:50%;" />
 
 我在客户端搭了个靶场，客户端连接之后可以走公网对应的配置端口访问，ssh，mysql访问同理，内网穿透是没问题的。
 
